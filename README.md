@@ -7,9 +7,14 @@ ASIMISMO QUIERO COMUNICARLE QUE TRABAJE CON MYSQL YA QUE CON POSTGRESQL TUVO ALG
 Describo a continuacion los pasos que se debe seguir para levantar el proyecto
 
 1. Instalar Node.js
-3. Instar express
+3. Instar express en eldirectorio del proyecto
 5. Instalar Mysql(xampp)
-6. Para un mejor manejo del API REST, instalar el complemento REST client para vsCode:
+    host: 'localhost',
+    port: 3306,
+    user: 'root',
+    password: '',
+    database: 'diplomado'
+7. Para un mejor manejo del API REST, instalar el complemento REST client para vsCode:
  
 //Listar
 ###
